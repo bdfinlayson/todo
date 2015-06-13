@@ -1,0 +1,12 @@
+== README
+
+This app is a todo list application based on Mackenzie Child's excellent rails tutorial series: https://mackenziechild.me/12-in-12/6/
+
+This app's features include:
+
+    – Todo Lists
+    – Todo Items
+    – Mark As Complete
+    – Custom Styling
+    – HAML
+
